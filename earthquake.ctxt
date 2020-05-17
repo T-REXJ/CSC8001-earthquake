@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=earthquake
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ earthquake\ here.\r\n\ In\ this\ class,\ mainly\ write\ the\ variables\ and\ methods\ for\ constructing\ earthquakes,\ \r\n\ as\ well\ as\ a\ seismic\ information\ method\ that\ you\ can\ call\ for\ a\ uniform\ format\ for\ the\ console\u3002\r\n\r\n\ @author\ (Jinyang\ Zhou)\r\n\ @version\ (09/11/2019)\r\n
+comment1.params=longitude\ latitude\ year\ magnitude
+comment1.target=earthquake(double,\ double,\ int,\ double)
+comment2.params=
+comment2.target=double\ lan()
+comment3.params=
+comment3.target=double\ lon()
+comment4.params=
+comment4.target=int\ getYear()
+comment5.params=
+comment5.target=double\ magnitude()
+comment6.params=
+comment6.target=void\ Information()
+numComments=7

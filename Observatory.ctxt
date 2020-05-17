@@ -1,0 +1,16 @@
+#BlueJ class context
+comment0.target=Observatory
+comment1.params=year\ square\ name
+comment1.target=Observatory(int,\ double,\ java.lang.String)
+comment2.params=
+comment2.target=java.lang.String\ information()
+comment3.params=child
+comment3.target=void\ addChild(earthquake)
+comment4.params=
+comment4.target=earthquake\ Max()
+comment4.text=public\ void\ GetE(){//\u4E00\u89C8\u8868\r\n\ \ \ \ \ \ \ \ \ Scanner\ input\ \=\ new\ Scanner(System.in);\r\n\ \ \ \ \ \ \ \ \ System.out.println("Input\ the\ Magnitude\:\ ");\r\n\ \ \ \ \ \ \ \ \ double\ value\ \=\ input.nextDouble();\r\n\ \ \ \ \ \ \ \ //int\ n\=0;//\u751F\u6210\u4E00\u89C8\u8868\u65F6\u6240\u7528\u7684\u8BA1\u6570\u5668\r\n\ \ \ \ \ \ \ \ \ for(int\ i\=0;i<childs.length;i++){\r\n\ \ \ \ \ \ \ \ \ if(childs[i].magnitude>\=value)\r\n\ \ \ \ \ \ \ \ \ //System.out.println(childs[n].longitude\ +\ "\ and\ "\ +MaxOE.latitude);\r\n\ \ \ \ \ \ \ \ \ System.out.println("This\ earthquake\ happened\ at\ "+\ childs[i].longitude\ +\ "\ Lon\ "\ +\ childs[i].latitude\ +\ "\ Lat\ in\ "+\ childs[i].year\ +\ "\ year\ "\ +\ "\ Magnitude\:\ "\ \ +\ childs[i].magnitude);\r\n\ \ \ \ \ \ \ //\ \ n++;\ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ \ \ System.out.println(value);\r\n\ \ \ \ \ \ \ \r\n\ \ \ \ \ \ \ \ \ }\r\n\ \ \ \ \ //public\ void\ GetE(){\r\n\ \ \ \ \ \ \ \ }\r\n
+comment5.params=
+comment5.target=double\ Average()
+comment6.params=
+comment6.target=int\ dizhenshuliang()
+numComments=7
